@@ -1,0 +1,34 @@
+How to use
+********************
+
+# internship-code
+## Face-Recognition with Dahua SDK base on python.
+*THINNAPHAT SODANAT*, Internship student at Office of Digital Technology, Khon Kaen University, 2021.
+
+### Applicability
+* Recommended memory: No less than 512 M.
+* Python version: 3.7 or later
+* Software Development Kit (SDK) library.
+* Operating system:
+  * Windows: Windows 10/Windows 8.1/Windows 7/2000 and Windows Server 2008/2003.
+  * Linux: General Linux systems such as Red Hat/SUSE.
+
+### Installing
+* Install Python 3.7 or later.
+* Install Software Development Kit (SDK) use command below.
+
+"pip install NetSDK-2.0.0.1-py3-none-win_amd64.whl"
+
+**Note that:** The file may have a different name for each version.
+
+* Install PyQt5 use command below.
+
+"pip install pyqt5"
+
+
+### Running and Testing program
+* Use command below.
+
+"python faceRecog.py"
+
+**Note that:** The file may have a different name.
