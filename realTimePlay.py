@@ -19,7 +19,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PyQt5.QtCore import Qt
 from ctypes import *
 
-from design2 import Ui_MainWindow
+from realTimePlayUI import Ui_MainWindow
 
 from NetSDK.NetSDK import NetClient
 from NetSDK.SDK_Callback import fDisConnect, fHaveReConnect, fDecCBFun, fRealDataCallBackEx2
